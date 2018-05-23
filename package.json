@@ -2,7 +2,7 @@
   "name": "Memory-1",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "mocha",
     "start": "node app.js"
